@@ -144,10 +144,11 @@ body{
 	margin-top: 160px;
 	margin-right:250px;
 	max-width: 400px;
-	height: 300px;
+	height: 325px;
 	border: 2px solid black;
 	float: right;
 	border-radius: 5px;
+	font-size: 1.06em;
 }
 .abt{
 	margin-left: 29px;
@@ -200,40 +201,35 @@ body{
 }
 .hello{
 	font-size:1.4em;
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Crete Round', serif;
+
 }
 .avijit{
 	font-family: 'Satisfy', cursive;
 }
 .avijit span{
 	font-family: 'Play', sans-serif;
+	color: green;
 }
 .avijit a{
 	text-decoration: none;
 	color:brown;
+	font-family: 'Slabo 27px', serif;
 }
-.port{
-	color: #FFF748;
+.portfolio2{
+	border:1px white black;
+	margin-left: 20px;
 	font-family: 'Bree Serif', serif;
-	font-size: 3.5em;
-	border: 0px solid black;
-	color: #3C1A5B;
-	border-bottom-left-radius: 6px;
-	border-top-left-radius: 6px
+
 }
-.portfolio div{
-	display: inline-block;
-	margin-left: 3.5px;
- 	margin-right: 0px;
-}
-.folio{
+.port2{
+	font-size: 1.8em;
 	color: #3C1A5B;
-	font-family: 'Bree Serif', serif;
-	font-size: 3.5em;
-	border:0px solid black;
+
+}
+.folio2{
+	font-size: 1.8em;
 	color: #FFF748;
-	border-bottom-right-radius: 6px;
-	border-top-right-radius: 6px
 }
 .tm-para-acads
 {
@@ -306,12 +302,12 @@ body{
 	margin-top: 140px;
  	border-radius: 15px 15px 15px 15px;
  	box-shadow: 10px 10px 10px grey;
- 	background: #51d0de;
+ 	background: #FBEAEB;
 }
 .acads-main ol a{
 		text-decoration: none;
 		font-size: 1.05em;
-		font-family: 'Arbutus Slab', serif;
+		font-family: 'Gugi', cursive;
 }
 .current a{
 	text-decoration: none;
@@ -321,18 +317,18 @@ body{
 	margin-left: 10px;
 	font-size: 1.2em;
 	font-family: 'Exo', sans-serif;
-	color: white;
+	color: green;
 }
 .stud{
 	margin-top: 5px;
 	margin-left: 10px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Roboto Slab', serif;
 	color:  #bf4aa8;
 }
 .currstud{
 	margin-top: 5px;
 	margin-left: 10px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Roboto Slab', serif;
 	color:  #bf4aa8;
 }
 .past{
@@ -352,7 +348,7 @@ body{
 .hover_img a:hover span { display:block; }
 .hover_img a
 {
-	color:#d9d9d9;
+	color:#2F3C7E;
 }
 .main-contact{
 	width: 500px;
@@ -463,7 +459,7 @@ body{
 	height: 200px;
 	width: 400px;
 	font-size: 1.35em;
-	border:1px solid #51d0de;
+	border:1px solid white;
 	margin: 0 auto;
 	margin-top: 100px;
 	color:#295F2D;
@@ -473,7 +469,7 @@ body{
 	font-family: 'Cabin Sketch', cursive;
 	margin-left: 80px;
 	margin-right: 80px;
-	box-shadow: 10px 10px 10px grey;
+	box-shadow: 5px 5px 5px grey;
 	border-right: 1px solid white;
 	border-bottom: 1px solid white;
 
